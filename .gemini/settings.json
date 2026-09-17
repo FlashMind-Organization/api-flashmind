@@ -1,0 +1,11 @@
+{
+  "general": {
+    "defaultApprovalMode": "default"
+  },
+  "context": {
+    "fileName": [
+      "GEMINI.md",
+      "AGENTS.md"
+    ]
+  }
+}
